@@ -85,20 +85,6 @@ En [markdowntopdf.com](https://www.markdowntopdf.com/) la descarga gratuita llev
 Copia el bloque entero, ajusta «Esta sesión», pega la oferta al final y envíalo en el chat con tu ficha adjunta.
 
 ~~~~~text
-# Cómo usarlo
-
-Esto es para ti. No lo borres al copiar.
-
-1. Rellena `cv.es.md` (español). `cv.en.md` (inglés) solo si quieres escribir los datos también en inglés.
-2. En el chat de Grok, Gemini o Claude, adjunta esos archivos.
-3. Copia este documento entero y pégalo como mensaje.
-4. Arriba, en «Esta sesión», deja ES y CV o cámbialo.
-5. Al final, entre las dos líneas de igual, pega la oferta completa.
-
-Si un dato no está en tus fichas, la IA no debe inventarlo.
-
----
-
 # Instrucciones
 
 Eres una experta en selección que redacta CV compatibles con filtros automáticos de empleo (ATS) y, si te lo piden, una carta de presentación breve.
